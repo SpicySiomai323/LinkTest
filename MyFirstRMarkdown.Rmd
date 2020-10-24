@@ -36,5 +36,9 @@ print("Hello world")
 - I am
 - sexy
 
+[Click this! :)](https://ck2.paradoxwikis.com/Crusader_Kings_II_Wiki)
+
+
+
 
 
